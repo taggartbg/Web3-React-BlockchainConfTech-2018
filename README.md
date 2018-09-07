@@ -1,4 +1,5 @@
 **Author:** Taggart Bowen-Gaddy
+
 **Slides:** [PDF](public/web3-react_taggartbg.pdf)
 
 
